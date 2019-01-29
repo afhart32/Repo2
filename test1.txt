@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7E71-93F1
+
+ Directory of C:\Users\ahart\Desktop\MyProject
+
+01/29/2019  03:05 PM    <DIR>          .
+01/29/2019  03:05 PM    <DIR>          ..
+01/29/2019  03:05 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  354,199,453,696 bytes free
